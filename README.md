@@ -5,6 +5,15 @@ Passionate Game Developer (Godot / Unreal Engine)
 
 ---
 
+## Philosophy
+
+I prefer depth over surface complexity.  
+Small systems that are well-designed scale better than oversized ones with unclear boundaries.
+
+Software should be readable first, clever second.
+
+---
+
 ## 🔭 Current Project
 **AntiFun**  
 An GameJam Game from at that i workt on at the GlobalGameJam 2026 .  
