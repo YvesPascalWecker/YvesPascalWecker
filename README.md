@@ -3,17 +3,6 @@
 Fullstack Developer (TypeScript / Angular / NestJS)  
 Passionate Game Developer (Godot / Unreal Engine)
 
----
-
-## Philosophy
-
-I prefer depth over surface complexity.  
-Small systems that are well-designed scale better than oversized ones with unclear boundaries.
-
-Software should be readable first, clever second.
-
----
-
 ## 🔭 Current Project
 **AntiFun**  
 An GameJam Game from at that i workt on at the GlobalGameJam 2026 .  
@@ -28,8 +17,15 @@ An GameJam Game from at that i workt on at the GlobalGameJam 2026 .
 ---
 
 ## ⚡ Engineering Philosophy
-I design modular systems with strong architectural boundaries.  
-Gamification and feedback loops are recurring design patterns in my work.
+I focus on reducing accidental complexity before introducing structural complexity.
+My work emphasizes clear domain boundaries and well-defined responsibilities to keep systems maintainable and adaptable over time.
+
+Gamification and feedback loops are recurring design elements in my projects, used to make system behavior visible and to support user engagement and learning.
+
+I prefer systems to start small and grow based on real requirements.
+Well-designed, clearly scoped systems tend to scale more reliably than oversized solutions with unclear boundaries.
+
+Software should be readable first, clever second.
 
 ---
 
