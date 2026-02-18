@@ -31,36 +31,15 @@ Software should be readable first, clever second.
 
 ## 🧠 Core Stack
 
-**Frontend**
-- Angular (v17+)
-- TypeScript
-- JavaScript
-- SCSS
-- Cypress
-- Jest
+## Technical Core
 
-**Backend**
-- NestJS
-- Node.js
-- JWT / OAuth
-- REST APIs
-
-**Databases**
-- MariaDB
-- MySQL
-- SQLite
-
-**DevOps / Tooling**
-- Docker
-- Git
-- Linux
-
-**Other**
-- Blender
-- C / C++
-- Python
-- Java
-
+| Area        | Technologies |
+|------------|--------------|
+| Frontend   | Angular (v17+), TypeScript, SCSS, Cypress, Jest |
+| Backend    | NestJS, Node.js, REST APIs, JWT / OAuth |
+| Data       | MariaDB, MySQL, SQLite |
+| DevOps     | Docker, Linux, Git |
+| Other      | Blender, C / C++, Python, Java |
 ---
 
 ## 🎮 Game Development
