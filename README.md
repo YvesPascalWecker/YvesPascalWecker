@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋 I'm Yves Pascal Wecker
 
-<!--
-**YvesPascalWecker/YvesPascalWecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer (TypeScript / Angular / NestJS)  
+Passionate Game Developer (Godot / Unreal Engine)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project
+**AntiFun**  
+An GameJam Game from at that i workt on at the GlobalGameJam 2026 .  
+→ https://github.com/YvesPascalWecker/anti-fun
+
+---
+
+## 🌱 Currently Learning
+- C#
+- Vue.js
+
+---
+
+## ⚡ Engineering Philosophy
+I design modular systems with strong architectural boundaries.  
+Gamification and feedback loops are recurring design patterns in my work.
+
+---
+
+## 🧠 Core Stack
+
+**Frontend**
+- Angular (v17+)
+- TypeScript
+- JavaScript
+- SCSS
+- Cypress
+- Jest
+
+**Backend**
+- NestJS
+- Node.js
+- JWT / OAuth
+- REST APIs
+
+**Databases**
+- MariaDB
+- MySQL
+- SQLite
+
+**DevOps / Tooling**
+- Docker
+- Git
+- Linux
+
+**Other**
+- Blender
+- C / C++
+- Python
+- Java
+
+---
+
+## 🎮 Game Development
+
+- Godot 4.x
+- Unreal Engine 5
+- Procedural generation
+- Shader experimentation
+- Reverse engineering for learning design patterns
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/yves-pascal-wecker
+- GitHub: https://github.com/YvesPascalWecker
+
