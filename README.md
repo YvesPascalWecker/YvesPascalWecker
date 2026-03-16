@@ -17,12 +17,11 @@ An GameJam Game from at that i workt on at the GlobalGameJam 2026 .
 ---
 
 ## ⚡ Engineering Philosophy
-I focus on reducing accidental complexity before introducing structural complexity.
-My work emphasizes clear domain boundaries and well-defined responsibilities to keep systems maintainable and adaptable over time.
+My approach is to reduce accidental complexity before introducing structural complexity. I emphasize clear domain boundaries and well-defined responsibilities to ensure that systems remain maintainable and adaptable over time.
 
-Gamification and feedback loops are recurring design elements in my projects, used to make system behavior visible and to support user engagement and learning.
+I frequently use gamification and feedback loops in my projects to make system behavior visible and support user engagement and learning.
 
-I prefer systems to start small and grow based on real requirements.
+I prefer systems that start small and grow based on real requirements. 
 Well-designed, clearly scoped systems tend to scale more reliably than oversized solutions with unclear boundaries.
 
 Software should be readable first, clever second.
