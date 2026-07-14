@@ -14,7 +14,7 @@ An GameJam Game from at that i workt on at the GlobalGameJam 2026 .
 - C#
 - Vue.js
 - React
-
+- Dart with Flutter
 ---
 
 ## ⚡ Engineering Philosophy
