@@ -13,7 +13,6 @@ An GameJam Game from at that i workt on at the GlobalGameJam 2026 .
 ## 🌱 Currently Learning
 - C#
 - Vue.js
-- React
 - Dart with Flutter
 ---
 
