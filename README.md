@@ -36,7 +36,7 @@ Software should be readable first, clever second.
 |------------|--------------|
 | Frontend   | Angular (v17+), TypeScript, SCSS, Cypress, Jest |
 | Backend    | NestJS, Node.js, REST APIs, JWT / OAuth |
-| Data       | MariaDB, MySQL, SQLite |
+| Data       | MariaDB, MySQL, SQLite, MSSQL |
 | DevOps     | Docker, Linux, Git |
 | Other      | Blender, C / C++, Python, Java |
 ---
